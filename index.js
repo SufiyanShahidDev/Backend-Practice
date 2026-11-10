@@ -22,9 +22,6 @@ const fs = require("fs");
 // console.log(readFile);
 // console.log("file created successfully");
 
-
-
-const fs = require("fs");
 const http = require("http");
 
 const server = http.createServer((req, res) => {
